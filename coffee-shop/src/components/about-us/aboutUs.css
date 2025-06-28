@@ -1,0 +1,34 @@
+.black_bar {
+    background-color: #000;
+    height: 1px;
+    width: 60px;
+}
+.divider_grains_black {
+    background-image: url(../../assets/blackgrains.png);
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about_section {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about_title {
+    margin-top: 80px;
+    color: #000;
+    font-size: 24px;
+}
+.about_description {
+    text-align: center;
+    margin-top: 20px;
+    color: #000;
+    font-size: 14px;
+}
+.about_description_container {
+    width: 600px;
+    height: 250px;
+    margin-bottom: 100px;
+}

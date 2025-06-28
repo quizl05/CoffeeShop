@@ -1,0 +1,50 @@
+.itemscoffee_grid {
+    margin: 0 320px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+    padding: 20px;
+    justify-items: center;
+}
+
+.itemcoffee_container {
+    width: 220px;
+    height: 260px;
+    background-color: white;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: right;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.3s ease;
+}
+
+.itemcoffee_container:hover {
+    transform: translateY(-5px);
+}
+
+.itemcoffee_container img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.itemcoffee_name {
+    color: #000;
+    font-size: 14px;
+    margin: 10px 0 5px;
+}
+
+.itemcoffee_country {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.itemcoffee_price {
+    color: #000;
+    font-weight: bold;
+    color: #000;
+}

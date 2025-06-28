@@ -1,0 +1,23 @@
+nav {
+    position: absolute;
+    display: flex;
+    margin: 52px 0 0 180px;
+    gap: 40px;
+}
+a {
+    position: relative;
+    font-size: 12px;
+    color: #fff;
+    text-decoration: none;
+}
+.grains_link::before {
+    position: absolute;
+    top: -15px;
+    right: 70px;
+    content: '';
+    background-image: url(../../assets/Group.png);
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+}

@@ -1,0 +1,27 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+}
+.black_link {
+    position: relative;
+    font-size: 12px;
+    color: #000;
+    text-decoration: none;
+}
+
+.grains_link_black::before {
+    position: absolute;
+    top: -14px;
+    right: 71px;
+    content: '';
+    background-image: url(../../assets/black_Group.png);
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+    background-size: cover;
+}
+.footer_navbar {
+    position: relative;
+    margin: 30px auto;
+}

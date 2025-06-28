@@ -1,0 +1,13 @@
+.ourcoffee_section {
+    background-image: url(../../assets/MaskGroup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 260px;
+}
+.ourcoffee_title {
+    text-align: center;
+    padding-top: 130px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+}

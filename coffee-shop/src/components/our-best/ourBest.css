@@ -1,0 +1,42 @@
+.ourbest_section {
+    background-image: url(../../assets/paper.png);
+    height: 495px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.ourbest_title {
+    margin: 80px 0 40px 0;
+}
+.best_container {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+.beans_offer {
+    padding: 22px 0;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.65);
+    width: 220px;
+    height: 240px;
+    border-radius: 6px;
+    & img {
+        width: 150px;
+        height: 130px;
+    }
+}
+.bestbeans_price {
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 140px;
+}
+.beans_title {
+    color: #000;
+    font-size: 14px;
+}

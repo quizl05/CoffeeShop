@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Kenya",
+      "price": "4.99$",
+      "description": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 2,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Colombia",
+      "price": "3.99$",
+      "description": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 3,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Ethiopia",
+      "price": "56.99$",
+      "description": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 4,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Kenya",
+      "price": "36.99$",
+      "description": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 5,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Colombia",
+      "price": "6.99$",
+      "description": "Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 6,
+      "name": "AROMISTICO Coffee 1 kg",
+      "country": "Ethiopia",
+      "price": "16.99$",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+]

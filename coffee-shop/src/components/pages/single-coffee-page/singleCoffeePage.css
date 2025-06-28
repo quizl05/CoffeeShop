@@ -1,0 +1,42 @@
+.singlecoffee {
+    margin: 70px 20% 30px 20%;
+    display: flex;
+    gap: 55px;
+}
+.singleCoffeeImg {
+    filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.3));
+}
+.aboutit_container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.singlecoffee_title {
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+}
+.item_description {
+    color: #000;
+    font-size: 14px;
+    font-weight: 300;
+    & span {
+        font-weight: bold;
+    }
+}
+.item_price {
+    color: #000;
+    font-size: 14px;
+    font-weight: 300;
+    & span {
+        font-weight: bold;
+    }
+}
+.itemcountry_title {
+    color: #000;
+    font-size: 14px;
+    font-weight: 300;
+    & span {
+        font-weight: bold;
+    }
+}

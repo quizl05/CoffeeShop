@@ -1,0 +1,13 @@
+.pleasure_title {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 130px;
+    color: #fff;
+    text-align: center;
+}
+.pleasuretitle_section {
+    background-image: url(../../assets/coffee_pleasure.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 260px;
+}
